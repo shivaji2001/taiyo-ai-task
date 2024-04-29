@@ -1,5 +1,7 @@
 
-Live Link for this project :- [Click Here to see live project](https://662f605085fbeb00965e2ea3--dainty-liger-279c73.netlify.app/).
+ [Click Here to see live project](https://662f605085fbeb00965e2ea3--dainty-liger-279c73.netlify.app/).
+
+ Live Link for this project :-  https://662f605085fbeb00965e2ea3--dainty-liger-279c73.netlify.app/
 
 
 # Getting Started with Create React App
